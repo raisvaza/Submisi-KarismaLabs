@@ -9,7 +9,7 @@
         <header>
             <h1 align="right">SMA PGII 1 Bandung <span><a href=./index.php>Home</a> | <a href="daftar.php">Daftar</a></span></h1>
         </header>
-        <div align="center"><img src="./img/SMA.jpg"></div>
+        <div align="center"><img src="./SMA.jpg"></div>
         <p>Selamat datang di website resmi SMA PGII 1 Bandung.<br>
            Di sini Anda akan menemukan informasi-informasi mengenai sekolah kami.
         </p>
